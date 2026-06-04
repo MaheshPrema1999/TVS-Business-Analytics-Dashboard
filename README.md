@@ -100,20 +100,6 @@ Key SQL Concepts Used:
 8.DENSE_RANK()
 9.RANK()
 
-Key Insights:
-1.Identified top-performing dealers based on revenue contribution.
-2.Analyzed bike models generating the highest revenue.
-3.Monitored delivery performance and delayed orders.
-4.Evaluated monthly sales trends and revenue patterns.
-5.Compared dealer performance across different regions.
-
-Business Recommendations:
-1.Increase inventory allocation for high-demand bike models.
-2.Improve logistics planning for dealers with frequent delays.
-3.Monitor dealer performance through KPI-driven reporting.
-4.Reduce delivery bottlenecks through proactive tracking.
-5.Focus on top revenue-generating regions and dealers.
-
 Skills Demonstrated:
 1.Data Cleaning
 2.SQL Querying
